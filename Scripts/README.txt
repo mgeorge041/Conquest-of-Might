@@ -1,8 +1,1 @@
-This folder contains the scripts for the following game objects in Joseph's game:
-
-Map
-Tile
-Card
-Hand
-Camera
-
+This folder contains the scripts for general game objects within the game and the folders for all the more specific scripts
